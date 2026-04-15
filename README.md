@@ -59,7 +59,7 @@ Scikit-learn / TensorFlow / PyTorch (depending on your implementation)
 
 ### ▶️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/repo-name.git
+git clone [https://github.com/your-username/repo-name.git](https://github.com/ratishgurav/Origin_Medical_RC.git)
 Navigate to the project folder:
 cd repo-name
 Open the notebook:
